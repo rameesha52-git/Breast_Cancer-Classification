@@ -4,8 +4,7 @@
 
 ### 1. Logistic Regression
 How it Works: Logistic Regression is a linear model used for binary classification. It predicts the probability of a class (e.g., benign or malignant) using the sigmoid function to map linear outputs to probabilities between 0 and 1. The decision boundary is determined by a threshold (usually 0.5).
-Why Suitable for This Dataset:
-Works well for linearly separable data.
-Provides interpretable results, especially for binary classification problems like this one.
-
+#### Works well for linearly separable data.
+#### Provides interpretable results, especially for binary classification problems like this one.
+#### Logistic Regression ahieved high accuracy (0.95
 
