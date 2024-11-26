@@ -25,3 +25,7 @@ How it Works: SVM finds the hyperplane that best separates data points into clas
 ### k-Nearest Neighbors (k-NN)
 Accuracy: 0.94
 k-NN is a non-parametric algorithm that classifies a data point based on the majority class of its k nearest neighbors in the feature space. The distance metric (e.g., Euclidean) is used to identify the nearest neighbors.
+## Conclusion
+Based on the results:
+The Random Forest Classifier is the most suitable model for this dataset due to its high accuracy and robustness.
+The Decision Tree Classifier performed the worst, highlighting the importance of using ensemble methods to improve prediction accuracy.
